@@ -1,0 +1,46 @@
+*{margin: 0%;}
+
+h1{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#form1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 90%;
+    height: fit-content;
+    /* margin-left: 1000000px; */
+    margin-bottom: 60px;
+    border-radius: 10px;
+    background-color: #1a76d1;
+    margin-left: 100px;
+    /* text-align: center; */
+    padding-top: 20px;
+    padding-bottom: 25px;
+    box-shadow: 5px 10px 35px;
+
+}
+
+.regcd{
+    margin-left: 100px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#btn{
+    height: 45px;
+    width: 200px; 
+    border-radius: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: medium; 
+}form button:hover{border: 3px solid black; box-shadow: 10px 10px 35px black;}
+.sz{
+    height: 40px;
+    width: 300px;
+    border-radius: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#hyp:hover{ border-bottom: 2px solid aliceblue;}
+

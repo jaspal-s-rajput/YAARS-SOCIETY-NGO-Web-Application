@@ -1,0 +1,66 @@
+#entry{
+    margin-left: 50px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    
+    text-align: center;
+    height: fit-content;
+    width:fit-content;
+
+    border: 2px black solid;
+    border-radius: 10px;
+    box-shadow: 2px 5px 20px 1px;
+}
+#entry:hover{
+    box-shadow: 2px 5px 20px 5px;
+    background-color: #e7e3e399;
+}
+
+.ent{
+    margin-right: 15px;
+    margin-bottom: 15px;
+
+    text-align: center;
+
+    height: 40px;
+    width: 400px;
+    font-size:medium ;
+    border-radius: 5px;
+
+}
+.ent:hover{
+    box-shadow: 1px 3px 20px 1px;
+}
+
+#add{
+
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 10px;
+    height: 80px;
+    
+}
+
+#shrt{
+    width: 117px;
+}
+
+#entry form button{
+    background-color: #1a76d1;
+}
+
+#entry form button:hover{
+    color: aliceblue;
+    background-color: darkslategrey;
+}
+
+#who{
+    height: 430px;
+    width: 500px;
+    margin-top: 15px;
+    margin-left: 40px;
+}

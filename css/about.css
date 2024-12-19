@@ -1,0 +1,38 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #1a76d1; /* Green */
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+header h1{font-size: 45px; margin-bottom: 10px;} 
+main h2, h3 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 30px;
+
+    
+}
+
+main p {
+    line-height: 1.5;
+    text-align: center;
+}
+
+main ul {
+    list-style: none;
+    padding-left: 20px;
+}
+
+
